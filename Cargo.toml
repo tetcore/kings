@@ -1,5 +1,5 @@
 [package]
-name = 'substrate-validator-set'
+name = 'kings'
 version = '4.0.0-dev'
 authors = ['Gautam Dhameja <quasijatt@outlook.com>']
 edition = '2021'
