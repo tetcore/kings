@@ -8,7 +8,7 @@ A [Tetcore](https://github.com/tetcoin/tetcore/) frame to add/remove authorities
 
 To see this pallet in action in a Substrate runtime, watch this video - https://www.youtube.com/watch?v=lIYxE-tOAdw
 
-## Setup with Substrate Node Template
+## Setup with Tetcore Node Template
 
 ### Dependencies - runtime/cargo.toml
 
