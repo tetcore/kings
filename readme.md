@@ -1,8 +1,8 @@
-# Substrate Validator Set Pallet
+# Tetcore Kings Validator Set Frame
 
-A [Substrate](https://github.com/paritytech/substrate/) pallet to add/remove authorities/validators using extrinsics, in Substrate-based PoA networks.
+A [Tetcore](https://github.com/tetcoin/tetcore/) frame to add/remove authorities/validators using extrinsics, in Tetcore-based PoA networks.
 
-**Note: Current master is compatible with Substrate [monthly-2021-12](https://github.com/paritytech/substrate/releases/tag/monthly-2021-12) tag. For older versions, please see releases/tags.**
+**Note: Current master is compatible with Tetcore [monthly-2021-12](https://github.com/paritytech/substrate/releases/tag/monthly-2021-12) tag. For older versions, please see releases/tags.**
 
 ## Demo
 
